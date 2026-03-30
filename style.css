@@ -8,7 +8,7 @@ body {
     box-sizing: border-box;
 }
 
-h1 h2{
+h1, h2{
     font-family: 'Poppins', sans-serif;
     letter-spacing: 1px;
 }
@@ -293,4 +293,39 @@ h2{
     white-space: nowrap; 
     border-radius: 900px; 
     border-style: solid;
+}
+
+/*mobile*/
+
+@media (max-width: 768px) {
+
+    .layout,
+    .layout2,
+    .experiencia {
+        flex-direction: column;
+    }
+
+    .menu {
+        width: 100%;
+    }
+
+    .contato {
+        padding: 20px;
+        margin: 10px;
+    }
+
+    .foto {
+        width: 100%;
+        height: auto;
+    }
+
+    .experiencias-principais {
+        padding: 15px;
+        font-size: 16px;
+    }
+
+    .figma {
+        font-size: 18px;
+    }
+
 }
