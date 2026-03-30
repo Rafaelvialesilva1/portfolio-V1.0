@@ -260,12 +260,12 @@ h2{
     text-decoration: none;
 }
 
-.contato a.linkedin {
+.contato a.redes-sociais {
     color: blue;
     white-space: nowrap;
 }
 
-.contato a.linkedin:hover {
+.contato a.redes-sociais:hover {
     color:purple;
 }
 
