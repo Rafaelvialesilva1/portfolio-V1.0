@@ -26,6 +26,16 @@ p{
     border-right: #000000 3px solid;
 }
 
+.lado-esquerdo {
+    flex: 1;
+    min-width: 250px;
+}
+
+.lado-direito {
+    flex: 2;
+    min-width: 250px;
+}
+
 .topo {
     background-color: #0b2b40;
     color: white;
@@ -35,6 +45,12 @@ p{
 .layout {
     display: flex;
     background-color: #434547;
+}
+
+.layout img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 .tabela {
@@ -58,8 +74,8 @@ p{
 }
 
 #localisacao li{
-    font-size: 20px; 
-    padding-bottom: 20px;
+    font-size: 20px;
+    padding: 20px;
     border: none;
     list-style: circle;
 }
@@ -301,9 +317,13 @@ h2{
 
     .layout,
     .layout2,
-    .experiencia, 
+    .experiencia 
     .cursos {
         flex-direction: column;
+    }
+
+    .cursos li{
+        font-size: 11px;
     }
 
     .menu {
