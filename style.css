@@ -323,7 +323,8 @@ h2{
     }
 
     .cursos li{
-        font-size: 8.5px;
+        font-size: 10px;
+        max-width: 100%;
     }
 
     .menu {
