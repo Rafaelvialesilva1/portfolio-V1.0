@@ -317,7 +317,7 @@ h2{
 
     .layout,
     .layout2,
-    .experiencia 
+    .experiencia,
     .cursos {
         flex-direction: column;
     }
