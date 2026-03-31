@@ -1,18 +1,18 @@
 # Portfólio - Rafael Viale da Silva
 
-Este é meu portfólio desenvolvido com foco em apresentar minhas habilidades em desenvolvimento web e projetos práticos.
+Este é o meu portfólio desenvolvido com foco em apresentar minhas habilidades em desenvolvimento web e projetos práticos!
 
-🔗 Acesse o site:  
+🔗 Acesso para o site:  
 https://rafaelvialesilva1.github.io/portfolio-V1.0/
 
 ---
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
+- HTML5;
+- CSS3;
+- JavaScript;
+- Git e GitHub.
 
 ---
 
@@ -26,12 +26,12 @@ O foco foi criar uma interface simples, clara e funcional, com navegação intui
 
 ## Funcionalidades
 
-- Navegação entre páginas (Sobre mim, Formação, Experiências, Contato)
-- Layout responsivo (adaptado para diferentes telas)
-- Menu lateral fixo
-- Links externos para redes profissionais
-- Botão para envio de e-mail
-- Feedback visual com interações em CSS e JavaScript
+- Navegação entre páginas (Sobre mim, Formação, Experiências, Contato);
+- Layout responsivo (adaptado para diferentes telas);
+- Menu lateral fixo;
+- Links externos para redes profissionais;
+- Botão para envio de e-mail;
+- Feedback visual com interações em CSS e JavaScript.
 
 ---
 
