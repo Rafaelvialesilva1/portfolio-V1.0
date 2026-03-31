@@ -2,7 +2,7 @@
 
 Este é o meu portfólio desenvolvido com foco em apresentar minhas habilidades em desenvolvimento web e projetos práticos!
 
-🔗 Acesso para o site:  
+🔗 Acesso para o Portfólio:  
 https://rafaelvialesilva1.github.io/portfolio-V1.0/
 
 ---
