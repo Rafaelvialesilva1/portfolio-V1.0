@@ -1,18 +1,18 @@
 # Portfólio - Rafael Viale da Silva
 
-Este é o meu portfólio desenvolvido com foco em apresentar minhas habilidades em desenvolvimento web e projetos práticos!
+Este é meu portfólio desenvolvido com foco em apresentar minhas habilidades em desenvolvimento web e projetos práticos.
 
-🔗 Acesso para o Portfólio:  
-https://rafaelvialesilva1.github.io/portfolio-V1.0/
+🔗 Acesse o site:  
+[Portifolio]
 
 ---
 
 ## Tecnologias utilizadas
 
-- HTML5;
-- CSS3;
-- JavaScript;
-- Git e GitHub.
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
 
 ---
 
@@ -26,39 +26,49 @@ O foco foi criar uma interface simples, clara e funcional, com navegação intui
 
 ## Funcionalidades
 
-- Navegação entre páginas (Sobre mim, Formação, Experiências, Contato);
-- Layout responsivo (adaptado para diferentes telas);
-- Menu lateral fixo;
-- Links externos para redes profissionais;
-- Botão para envio de e-mail;
-- Feedback visual com interações em CSS e JavaScript.
+- Navegação entre páginas (Sobre mim, Formação, Experiências, Contato)
+- Layout responsivo (adaptado para diferentes telas)
+- Menu lateral fixo
+- Links externos para redes profissionais
+- Botão para envio de e-mail
+- Feedback visual com interações em CSS e JavaScript
 
 ---
 
 ## Projetos apresentados
 
 ### Diagrama de Banco de Dados (REM)
+
 Modelagem de banco de dados com entidades, relacionamentos e regras de negócio.
 
 ### Aplicação em Python
+
 Sistema desenvolvido para cálculo de horas, simulando um cenário prático de uso.
 
 ### Projeto em Java
+
 Aplicação de controle financeiro simples (cofrinho), com lógica de entrada e saída de valores.
 
 ### Protótipo de Interface (Figma)
+
 Criação de layout para aplicativo mobile, focado em experiência do usuário.
 
 ---
 
 ## Contato
 
-- Email: rafaelviale@proton.me  
-- GitHub: https://github.com/Rafaelvialesilva1  
-- LinkedIn: https://www.linkedin.com/in/rafael-v-830352206  
+- Email: <rafaelviale@proton.me>  
+- GitHub: [GitHub]
+- LinkedIn: [LinkedIn]
 
 ---
 
 ## Status
 
 Projeto em constante evolução, com melhorias contínuas em layout, responsividade e usabilidade.
+
+[Portifolio]: https://rafaelvialesilva1.github.io/portfolio-V1.0/
+
+[GitHub]: https://github.com/Rafaelvialesilva1
+
+[LinkedIn]: https://www.linkedin.com/in/rafael-v-830352206
